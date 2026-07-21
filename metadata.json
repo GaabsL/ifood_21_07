@@ -1,0 +1,8 @@
+{
+  "name": "iFood Marketing Performance 21/07",
+  "description": "Dashboard interativo e responsivo estilo SaaS premium para acompanhamento de KPIs de marketing (Facebook, Instagram, TikTok) da diretoria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
